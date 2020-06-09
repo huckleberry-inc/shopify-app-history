@@ -1013,9 +1013,9 @@
     chalk "^4.0.0"
 
 "@shopify/app-bridge@^1.21.6":
-  version "1.21.6"
-  resolved "https://registry.yarnpkg.com/@shopify/app-bridge/-/app-bridge-1.21.6.tgz#025a04d67e7865f26bee098f00d9f432c1e1f1bc"
-  integrity sha512-PeLvCiNJx5GYgM9Z19U0FOx+oEjywPJ60a4z+gZtTZh3lSiCNUwQOg/bHz8bY7bNCbhJA0qt+8OYL/y/ADUcGg==
+  version "1.24.0"
+  resolved "https://registry.yarnpkg.com/@shopify/app-bridge/-/app-bridge-1.24.0.tgz#188fa83067355c5424f71ed1ead4626e61b04403"
+  integrity sha512-nPNYVF05QrWzDis8CeQj5vS7VcRNzL+PdCmHG2br3JsCfRWM+XPKKCVSbB3ewd/wX2b51tacITbZMtJ2MKgwjw==
 
 "@sinonjs/commons@^1.7.0":
   version "1.8.0"
