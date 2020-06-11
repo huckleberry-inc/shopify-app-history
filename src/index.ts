@@ -1,3 +1,3 @@
-import { useShopifyHistory } from "./useShopifyHistory";
+import { useShopifyHistory } from './useShopifyHistory';
 
 export { useShopifyHistory };
