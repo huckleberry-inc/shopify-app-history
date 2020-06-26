@@ -1044,10 +1044,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@huckleberry-inc/eslint-config@^0.0.2":
-  version "0.0.2"
-  resolved "https://npm.pkg.github.com/download/@huckleberry-inc/eslint-config/0.0.2/8c405ce747a24b943923390fdd92221d4c24cb8607302991495c51f738a50ece#780cf12a1b3e9e0496b56c89ab0074c7373e9cb7"
-  integrity sha512-aVzqUKHnHIj6Cxra8QH9H1jVsfS37qeGysfOJ/jPJBR+ePjwpCTZO3Xw+v4LbqxiHTL5pbH74a/gXIGB31Tjhg==
+"@huckleberry-inc/eslint-config@^0.0.13":
+  version "0.0.13"
+  resolved "https://npm.pkg.github.com/download/@huckleberry-inc/eslint-config/0.0.13/9d61f07767fc45ed8bcfae9ae66ae6f8e47a58bc384de38c1071d93bf145cf23#300b6ea6c63c3be59381e10bda6a953e7ab8faed"
+  integrity sha512-FZu7BOjxCRK7to2BNLEv++WMZpsI02+cFJU4p+ITF9k/n644ppvB6WuhN5/rJ3N2fseb1hhNGobip5ZMZ8L2oA==
   dependencies:
     "@types/eslint-plugin-prettier" "^3.1.0"
     "@types/prettier" "^2.0.1"
@@ -1075,10 +1075,10 @@
     stylelint-order "^4.1.0"
     stylelint-processor-styled-components "^1.10.0"
 
-"@huckleberry-inc/prettier-config@^0.0.1":
-  version "0.0.1"
-  resolved "https://npm.pkg.github.com/download/@huckleberry-inc/prettier-config/0.0.1/bd85a8a6fb2954844f29d56b3692e14abd6ff345c0e1bdda4c946e7c2843c81e#12f497dbe5d853e3dd7e76fbac58629e647d3637"
-  integrity sha512-PyRQ9fdHrq3U/nXzHiHExZWa5GRVLDS6fSWhzH3DSw2TPCn4mStdRIboeHo1NQM0tnonwojMw5lIQvTk9w51IA==
+"@huckleberry-inc/prettier-config@^0.0.6":
+  version "0.0.6"
+  resolved "https://npm.pkg.github.com/download/@huckleberry-inc/prettier-config/0.0.6/c6299d43bd1cab6f0b5695642f7a1a5516555a4e641e43630f0d96509d1f5a00#564c428ad1735f7a41ef41e3735089bf16d50e2f"
+  integrity sha512-14pCUSGB1qU6DhZ8I+lP21khp5b4cow472qYr4uE/T0pDtirLw+qX3AqWuUwLEV/2hJmsyDyywf+zUKNdtAHCg==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
