@@ -1,6 +1,6 @@
 {
   "name": "@huckleberry-inc/shopify-app-history",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "History management library for Shopify app",
   "author": "Huckleberry, inc. <dev@huckleberry-inc.com>",
   "license": "MIT",
