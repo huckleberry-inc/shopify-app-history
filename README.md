@@ -1,3 +1,7 @@
+*This Repository was archived. See [Using linkComponent](https://polaris.shopify.com/components/structure/app-provider#using-linkcomponent).*
+
+
+
 # Welcome to @huckleberry-inc/shopify-app-history 👋
 ![Version](https://img.shields.io/badge/version-0.0.3-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
