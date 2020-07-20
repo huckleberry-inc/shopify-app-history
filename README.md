@@ -1,7 +1,3 @@
-*This Repository was archived. See [Using linkComponent](https://polaris.shopify.com/components/structure/app-provider#using-linkcomponent).*
-
-
-
 # Welcome to @huckleberry-inc/shopify-app-history 👋
 ![Version](https://img.shields.io/badge/version-0.0.3-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
@@ -10,6 +6,14 @@
 > React router hooks for Shopify app
 
 ### 🏠 [Homepage](https://github.com/huckleberry-inc/shopify-app-history)
+
+## Note
+
+You can use official `linkComponent` prop if you don't expect to change Shopify App host URL.
+https://polaris.shopify.com/components/structure/app-provider#using-linkcomponent
+
+If you expect to change Shopify App host URL too, you need to call App Bridge History API.
+@huckleberry-inc/shopify-app-history provides function for that.
 
 ## Usage
 
